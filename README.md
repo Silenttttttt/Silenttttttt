@@ -17,19 +17,36 @@ With over 6 years in the software landscape, I've honed expertise in a broad ran
 * ✉️  Reach out to me at [munibesen@gmail.com](mailto:munibesen@gmail.com)
 * 🧠  I'm continuously exploring new technologies and strengthening my expertise.
 
-### Skills
-
 #### Languages:
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="32" height="32" title="C#" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32" height="32" title="Python" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="32" height="32" title="HTML5" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="32" height="32" title="CSS3" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32" height="32" title="JavaScript" />
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="32" height="32" title="C#" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32" height="32" title="Python" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="32" height="32" title="HTML5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="32" height="32" title="CSS3" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32" height="32" title="JavaScript" />
+</p>
 
 #### Frameworks:
-<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="32" height="32" title="Django" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="32" height="32" title="Vue.js" />
+
+<p align="left">
+<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="32" height="32" title="Django" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="32" height="32" title="Vue.js" />
+</p>
 
 #### Databases:
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="32" height="32" title="PostgreSQL" /><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="32" height="32" title="MySQL" />
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="32" height="32" title="PostgreSQL" />
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="32" height="32" title="MySQL" />
+</p>
 
 #### Tools and Others:
+
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="32" height="32" title="Git" />
+</p>
+
 
 ### My GitHub Stats
 
