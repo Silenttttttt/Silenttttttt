@@ -2,8 +2,8 @@
 **Silenttttttt/Silenttttttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Dive deep into my [About](https://cryptofuse.net/about/)
-- 📫 Connect with me: [cryptofuse.net](https://cryptofuse.net)
+- 💬 Dive deep into my [About](https://websitecentral.co/about-us)
+- 📫 Connect with me: [WebsiteCentral.co](https://websitecentral.co/contact)
 
 Hello, I'm Muni Besen
 ======================
