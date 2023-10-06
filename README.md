@@ -14,7 +14,7 @@ Hello, I'm Muni Besen
 With over 6 years in the software landscape, I've honed expertise in a broad range of languages, primarily Python, C++, C#, and JavaScript. I've pioneered the development of CryptoFuse.net, a cutting-edge cryptoswap platform and have extensive experience with web applications using Django and Vue.js, using PostgreSQL. My forays into web scraping, ChatGPT integrations, and cybersecurity solutions mark other distinctive proficiencies.
 
 * 🌍  Navigating the dynamic corridors of technology, cryptocurrency, and data analytics.
-* ✉️  Reach out to me at [muni@WebsiteCentral.co](mailto:muni@WebsiteCentral.co)
+* ✉️  Reach out to me at [contact@WebsiteCentral.co](mailto:contact@WebsiteCentral.co)
 * 🧠  I'm continuously exploring new technologies and strengthening my expertise.
 
 #### Languages:
@@ -57,10 +57,21 @@ With over 6 years in the software landscape, I've honed expertise in a broad ran
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&theme=gruvbox" alt="Top Languages" />
 </a>
 
-### Certifications
+### Certifications 🎓
 
-- **Data Analysis and Programming** from Escola Nacional de Administração Pública - Enap.
-- Advanced Professional Qualification in Programming.
+- **Data Analysis and Programming**: 
+  - **Issuing Organization**: Escola Nacional de Administração Pública (Enap)
+  - **Details**: Successfully completed a comprehensive program in data analysis and programming, gaining hands-on experience and deep understanding of key concepts and techniques.
+
+- **Advanced Professional Qualification in Programming**:
+  - **Issuing Organization**: [Name of the Issuing Organization]
+  - **Details**: Attained advanced professional qualification in programming, demonstrating proficiency and expertise in various programming languages and paradigms.
+
+- **LinkedIn Learning**:
+  - **50+ Certifications**: 
+    - **Fields**: Artificial Intelligence, Python, C#, JavaScript, Vue.js
+    - **Details**: Engaged in continuous learning and professional development through completing over 50 certifications on LinkedIn Learning in diverse fields including AI, Python, C#, JavaScript, and Vue.js. Each certification attests to skills and knowledge acquired in respective domains.
+
 
 ### About Me
 
