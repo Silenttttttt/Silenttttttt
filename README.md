@@ -64,7 +64,7 @@ With over 6 years in the software landscape, I've honed expertise in a broad ran
   - **Details**: Successfully completed a comprehensive program in data analysis and programming, gaining hands-on experience and deep understanding of key concepts and techniques.
 
 - **Advanced Professional Qualification in Programming**:
-  - **Issuing Organization**: [Name of the Issuing Organization]
+  - **Issuing Organization**: Master Professional Qualification
   - **Details**: Attained advanced professional qualification in programming, demonstrating proficiency and expertise in various programming languages and paradigms.
 
 - **LinkedIn Learning**:
