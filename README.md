@@ -28,9 +28,6 @@
   Hello world!🌎 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media0.giphy.com/media/1Zx2wssVsQhWzald5F/giphy.gif?cid=790b7611a3bb197d5a2a2c770d4861d6c14038d0c4a52ecf&rid=giphy.gif&ct=g" width="400" height="400"/>
-</div>
 
 ---
 
@@ -54,7 +51,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
@@ -69,18 +66,12 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuniBesen&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![Muni's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuniBesen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuniBesen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuniBesen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <div align="center">
 <img src="https://media3.giphy.com/media/iTWomlMFQXIA5DN0VZ/giphy.gif?cid=ecf05e47yrj53hfuyfn5iv8zfprkudcc0fjx5y23qmcv9a5k&rid=giphy.gif&ct=g" />
 </div>
-
----
-
-### ✍️ Random Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br>
