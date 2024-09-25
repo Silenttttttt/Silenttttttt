@@ -58,7 +58,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
-<img src="upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="Aws" alt="Aws" width="50" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="Aws" alt="Aws" width="50" height="50"/>&nbsp;
 </div>
 
 ---
