@@ -20,6 +20,9 @@
   <a href="mailto:munibesen@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://wa.me/554898864199">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
 
 <div align="center">
@@ -66,7 +69,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 [![Muni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silenttttttt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)
 
 ---
 
@@ -78,7 +81,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   <a href="https://www.linkedin.com/in/muni-besen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.me/5548988649199">
+  <a href="https://wa.me/554898864199">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
