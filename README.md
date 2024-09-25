@@ -93,7 +93,6 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 
 ---
-
 <div align="center">
 
   <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_en.pdf">
@@ -102,8 +101,11 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_pt.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(PT)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PT Badge"/>
   </a>
+</div>
+
 ---
 
+<div align="center">
   <h3>📫 Feel free to reach out to me!</h3>
   <a href="mailto:munibesen@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -115,5 +117,4 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <br>
-
 </div>
