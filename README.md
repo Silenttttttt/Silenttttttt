@@ -31,6 +31,18 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_pt.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(PT)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PT Badge"/>
+  </a>
+  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_en.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(EN)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN Badge"/>
+  </a>
+</div>
+
+---
+
+
 ### :technologist: About Me :
 
 I am a highly skilled software developer with over 7 years of experience in Python, C++, C#, and JavaScript. Proven track record in developing robust web applications using Django, Flask, React, and Vue.js, with expertise in PostgreSQL and SQLite, web scraping, ChatGPT integrations, and cybersecurity.
@@ -79,6 +91,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)
 
+
 ---
 
 <div align="center">
@@ -91,5 +104,12 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   </a>
   <a href="https://wa.me/554898864199">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <br>
+  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_pt.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(PT)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PT Badge"/>
+  </a>
+  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_en.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(EN)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN Badge"/>
   </a>
 </div>
