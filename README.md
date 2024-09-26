@@ -47,7 +47,7 @@
 
 I am a highly skilled software developer with over 7 years of experience in Python, C++, C#, and JavaScript. Proven track record in developing robust web applications using Django, Flask, React, and Vue.js, with expertise in PostgreSQL and SQLite, web scraping, ChatGPT integrations, and cybersecurity.
 
-- 🇧🇷 Country: Brazil (GMT-3)
+- 🇧🇷 Brazil (GMT-3)
 - 🔗 LinkedIn: [Muni Besen](https://www.linkedin.com/in/muni-besen/)
 - 📧 Email: munibesen@gmail.com
 - 📱 Cellphone: +55 (48) 98864-9199
