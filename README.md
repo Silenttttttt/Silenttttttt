@@ -45,7 +45,7 @@
 
 ### :technologist: About Me :
 
-I am a highly skilled software developer with over 7 years of experience in Python, C++, C#, and JavaScript. Proven track record in developing robust web applications using Django, Flask, React, and Vue.js, with expertise in PostgreSQL and SQLite, web scraping, ChatGPT integrations, and cybersecurity.
+I am a highly skilled software developer with over 7 years of experience in Python, C++, C#, JavaScript, and others. Proven track record in developing robust web applications using Django, Flask, React, and Vue.js, with expertise in PostgreSQL and SQLite, web scraping, ChatGPT integrations, and cybersecurity.
 
 - 🇧🇷 Brazil (GMT-3)
 - 🔗 LinkedIn: [Muni Besen](https://www.linkedin.com/in/muni-besen/)
