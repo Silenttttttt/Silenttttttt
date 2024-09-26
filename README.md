@@ -6,10 +6,6 @@
 
 <h1 align="center"><b>Hello, I'm Muni Besen </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmaGg1Zml0MTBlcms4MmtlMHU1Zms5OXhvajM1ejJhdGliOWtieCZlcD12MV9pbnRlcm5fZ2lmX2J5X2lkJmN0PWc/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="35"></h1>
 
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=790b7611a566177366679496ffd24c70b3086ccc969657ef&rid=giphy.gif&ct=s" width="400" height="400"/>
-</div>
-
 <div id="badges" align="center" border-radius="50px">
   <a href="https://www.linkedin.com/in/muni-besen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
