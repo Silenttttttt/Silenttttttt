@@ -85,7 +85,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 ### :fire: My Stats :
 
-[![Muni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silenttttttt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Muni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silenttttttt&show_icons=true&theme=radical)](https://github.com/Silenttttttt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silenttttttt&layout=compact&theme=radical)
 
