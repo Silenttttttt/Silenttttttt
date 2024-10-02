@@ -71,6 +71,7 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
