@@ -22,9 +22,10 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Silenttttttt&style=flat-square&color=blue" alt="Profile_View_Counter"/>
+    <a href="https://github.com/Silenttttttt" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=Silenttttttt&style=flat-square&color=blue" alt="Profile_View_Counter"/>
+    </a>
 </div>
-
 ---
 
 <div align="center">
