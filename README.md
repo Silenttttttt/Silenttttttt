@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h1 align="center"><b>Hello, I'm Muni Besen! </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmaGg1Zml0MTBlcms4MmtlMHU1Zms5OXhvajM1ejJhdGliOWtieCZlcD12MV9pbnRlcm5fZ2lmX2J5X2lkJmN0PWc/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I am Muni Besen! </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmaGg1Zml0MTBlcms4MmtlMHU1Zms5OXhvajM1ejJhdGliOWtieCZlcD12MV9pbnRlcm5fZ2lmX2J5X2lkJmN0PWc/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="35"></h1>
 
 <div id="badges" align="center" border-radius="50px">
   <a href="https://www.linkedin.com/in/muni-besen/">
