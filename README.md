@@ -96,11 +96,10 @@ I am a highly skilled software developer with over 7 years of experience in Pyth
 
 ---
 <div align="center">
-
-  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_en.pdf">
+  <a href="https://github.com/Silenttttttt/cv-forge/blob/main/muni_besen_en.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(EN)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN Badge"/>
   </a>
-  <a href="https://github.com/Silenttttttt/Silenttttttt/blob/main/Muni_Besen_CV_pt.pdf">
+  <a href="https://github.com/Silenttttttt/cv-forge/blob/main/muni_besen_pt.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(PT)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PT Badge"/>
   </a>
 </div>
