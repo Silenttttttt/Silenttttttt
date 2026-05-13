@@ -90,7 +90,7 @@ I am a highly skilled software developer with over 8 years of experience in Pyth
 ### :fire: My Stats :
 
 [![Muni's GitHub stats](https://advogadosgoiania.com/api/github-stats/stats)](https://github.com/Silenttttttt)  
-  
+
 [![Top Langs](https://advogadosgoiania.com/api/github-stats/top-langs)](https://github.com/Silenttttttt)    
 
 ---
