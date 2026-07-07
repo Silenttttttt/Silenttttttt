@@ -22,11 +22,10 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Silenttttttt" target="_blank">
-        <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt" alt="Profile Views"/>
+    <a href="https://github.com/Silenttttttt">
+      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt" alt="Profile Views"/>
     </a>
-</div>
-
+  </div>
 ---
 
 <div align="center">
