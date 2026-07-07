@@ -23,7 +23,7 @@
 
 <div align="center">
     <a href="https://github.com/Silenttttttt" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=Silenttttttt&style=flat-square&color=blue" alt="Profile_View_Counter"/>
+        <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt" alt="Profile Views"/>
     </a>
 </div>
 
