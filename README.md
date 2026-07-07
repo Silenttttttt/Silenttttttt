@@ -26,7 +26,6 @@
       <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt" alt="Profile Views"/>
     </a>
   </div>
----
 
 <div align="center">
   <a href="https://github.com/Silenttttttt/cv-forge/blob/main/muni_besen_en.pdf">
