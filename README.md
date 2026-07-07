@@ -23,7 +23,7 @@
 
 <div align="center">
     <a href="https://github.com/Silenttttttt">
-      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt" alt="Profile Views"/>
+      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=Silenttttttt&v=2" alt="Profile Views"/>
     </a>
   </div>
 
